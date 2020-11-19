@@ -1,6 +1,8 @@
 class HelloWorld {
   //ハロー
   int id;
-  String nama;
+  String name;
   double num;
+  int abc
+
 }
